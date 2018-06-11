@@ -1,0 +1,11 @@
+.shower.full .slide.active {
+    margin: 0;
+    visibility: visible;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-div img {
+    width: 100%;
+}
